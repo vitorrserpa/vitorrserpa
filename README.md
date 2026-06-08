@@ -1,8 +1,11 @@
 # 👨‍💻 Sobre mim
 
 Sou estudante de Engenharia de Software, licenciado em Letras – Inglês e apaixonado por tecnologia, idiomas e aprendizado contínuo.
+📩 contato: serpa.vitorr@gmail.com
 
-Atualmente estou desenvolvendo minhas habilidades em HTML, CSS, JavaScript, Git e GitHub, construindo uma base sólida para atuar no desenvolvimento de software.
+Skills: 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 🌎 Idiomas:
 - 🇧🇷 Português (Nativo)
