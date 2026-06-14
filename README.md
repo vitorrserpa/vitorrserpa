@@ -1,24 +1,25 @@
-# 👨‍💻 Sobre mim
+# 👨‍💻 About Me
 
-Sou estudante de Engenharia de Software, licenciado em Letras – Inglês e apaixonado por tecnologia, idiomas e aprendizado contínuo.
-📩 contato: serpa.vitorr@gmail.com
+I am a Software Engineering student, licensed in English Language and Literature, and passionate about technology, languages, and lifelong learning.
+
+📩 Contact: serpa.vitorr@gmail.com
 
 # Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-🌎 Idiomas:
-- 🇧🇷 Português (Nativo)
-- 🇺🇸 Inglês (Fluente)
-- 🇪🇸 Espanhol (Fluente)
-- 🇫🇷 Francês (Intermediário)
-- 🇮🇹 Italiano (Intermediário)
+🌎 Languages:
+- 🇧🇷 Portuguese (Native)
+- 🇺🇸 English (Fluent)
+- 🇪🇸 Spanish (Fluent)
+- 🇫🇷 French (Intermediate)
+- 🇮🇹 Italian (Intermediate)
 
-💡 Interesses:
-- Desenvolvimento Front-end e Mobile
-- Engenharia de Software
-- Tecnologias Web
-- Inteligência Artificial
-- Tecnologia na Educação
+💡 Interests:
+- Front-end and Mobile Development
+- Software Engineering
+- Web Technologies
+- Artificial Intelligence
+- Technology in Education
 
-🎯 Objetivo: ingressar na área de tecnologia e contribuir para projetos que gerem impacto real por meio do software.
+🎯 Goal: to start a career in the technology industry and contribute to projects that create real-world impact through software.
