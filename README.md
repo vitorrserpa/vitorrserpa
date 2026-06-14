@@ -5,7 +5,7 @@ Sou estudante de Engenharia de Software, licenciado em Letras – Inglês e apai
 
 # Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 🌎 Idiomas:
 - 🇧🇷 Português (Nativo)
