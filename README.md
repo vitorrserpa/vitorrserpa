@@ -6,7 +6,7 @@ I am a Software Engineering student, licensed in English Language and Literature
 
 # Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql)](https://skillicons.dev)
 
 🌎 Languages:
 - 🇧🇷 Portuguese (Native)
