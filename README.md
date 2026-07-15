@@ -4,14 +4,17 @@ I am a Software Engineering student, licensed in English Language and Literature
 
 📩 Contact: serpa.vitorr@gmail.com
 
-# Skills:
+ <h3>Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql)](https://skillicons.dev)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 🌎 Languages:
 - 🇧🇷 Portuguese (Native)
-- 🇺🇸 English (Fluent)
+- 🇺🇸 English (Fluent) 
 - 🇪🇸 Spanish (Fluent)
 - 🇫🇷 French (Intermediate)
 - 🇮🇹 Italian (Intermediate)
